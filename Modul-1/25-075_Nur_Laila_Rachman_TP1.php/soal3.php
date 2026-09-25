@@ -1,8 +1,4 @@
-<?php 
-$color = "silver";
-$COLOR = " white";
-
-echo "My car is $color";
-echo "<br>"
-echo "My house is $COLOR";
- ?>
+<?php
+// ini non-embeded script
+echo "Hello World";
+?>
